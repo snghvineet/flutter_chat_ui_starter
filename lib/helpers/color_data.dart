@@ -7,4 +7,5 @@ class ColorData {
   static const textPrimary = Color(0xFF615359);
   static const textSecondary = Color(0xFFBCBDB6);
   static const darkestYellow = Color(0xFFB49F94);
+  static const unreadMsg = Color(0xFFFFEFEE);
 }
